@@ -7,14 +7,6 @@ html {
     scroll-behavior: smooth;
 }
 
-:root {
-    --primary-color: #d0a772;
-    --secondy-color: #f8f9fa;
-    --primary-font: 'Athiti', sans-serif;
-    --secondary-font: 'Arbutus Slab', serif;
-    --text-color: #666666;
-    --gap: 1rem;
-}
 
 body {
     font-family: var(--primary-font);

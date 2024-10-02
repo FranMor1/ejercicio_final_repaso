@@ -1,0 +1,19 @@
+@media (width>62rem) {
+    header .hamburger {
+        display: none;
+    }
+    
+    header nav {
+        width: calc(100% - 12.5rem);
+        padding: 0.60rem 0px;
+
+        ul {
+            display: flex;
+            justify-content: end;
+
+            li {
+                margin: 0rem 0.3125rem;
+            }
+        }
+    }
+}
