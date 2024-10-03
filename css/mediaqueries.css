@@ -2,6 +2,11 @@
        #menu .grid {
         grid-template-columns: repeat(2, 1fr);
         }
+
+        #contact .icons a span {
+            display: inline-block;
+            margin-left: 0.625rem;
+        }
 }
 
 @media (width>62rem) {
